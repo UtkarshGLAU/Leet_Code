@@ -6,7 +6,8 @@ class Solution {
             int s=q[i][0],e=q[i][1];
             int curr =0;
             while(s<=e) curr^=arr[s++];
-            ans[k++]=curr;
+            ans[k]=curr;
+            k++;
         }
         return ans;
     }
