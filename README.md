@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
