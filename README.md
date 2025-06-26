@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -56,5 +58,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
