@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,28 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
