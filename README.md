@@ -40,10 +40,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,18 +81,22 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
