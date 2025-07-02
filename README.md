@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
