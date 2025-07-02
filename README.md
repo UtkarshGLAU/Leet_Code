@@ -6,6 +6,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
@@ -14,6 +15,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
 ## Prefix Sum
@@ -23,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 ## Design
 |  |
@@ -41,6 +44,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -72,6 +76,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -84,6 +89,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
