@@ -1,14 +1,9 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        // boolean arr[] = new boolean[n];
-        // return solve(arr,k,0)
-        int ans=0;
-        for(int i=1;i<=n;i++) ans=(ans+k)%i;
-        return ans+1;
+        return solve(n,k)+1;
     }
-    // int solve(int []arr,int k,int i){
-    //     if()
-
-    //     return solve(arr,k,i+1);
-    // }
+    int solve(int n,int i){
+        if(n==1) return 0;
+        return (solve(n-1,i)+i)%n;
+    }
 }
