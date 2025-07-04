@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
@@ -68,10 +69,12 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 ## Math
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,4 +147,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
