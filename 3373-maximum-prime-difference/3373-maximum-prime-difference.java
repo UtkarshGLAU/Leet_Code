@@ -5,8 +5,7 @@ class Solution {
             if(p==-1 && isPrime(nums[i])) p=i;
             if(q==-1 && isPrime(nums[nums.length-1-i])) q=nums.length-1-i;
         }
-        System.out.println(p+"   "+q);
-        return Math.abs(p-q);
+        return q-p;
     }
     boolean isPrime(int n){
         if (n <= 1) return false;
