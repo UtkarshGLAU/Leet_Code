@@ -15,6 +15,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
+| [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
 ## Combinatorics
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
