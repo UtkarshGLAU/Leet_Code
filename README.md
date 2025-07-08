@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -142,6 +143,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
