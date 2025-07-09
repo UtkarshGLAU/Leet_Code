@@ -59,6 +59,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
 | [3567-convert-date-to-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3567-convert-date-to-binary) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
