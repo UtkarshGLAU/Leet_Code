@@ -5,8 +5,10 @@ class Solution {
             if(s.contains(n)){
 
             return true;
-            } 
+            } else{
+
             s.add(n);
+            }
         }
         return false;
     }
