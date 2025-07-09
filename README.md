@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0268-missing-number) |
