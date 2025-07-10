@@ -141,6 +141,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,12 +149,14 @@
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +184,12 @@
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
