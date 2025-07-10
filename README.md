@@ -140,17 +140,20 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
