@@ -19,12 +19,15 @@ class Solution {
         solve(root);
         return ans;
     }
-    private int solve(TreeNode node){
+    private int solve(TreeNode root){
+        if(root == null) return 0;
+        int l = solve(root.left);
+        int r = solve(root.right);
 
-        if(node==null) return 0;
-        int left=solve(node.left);
-        int right=solve(node.right);
-        ans=Math.max(ans,left+right);
-        return Math.max(left,right)+1;
+        int ans1=l+r;
+        ans=Math.max(ans,ans1);
+        int ans2=Math.max(l,r)+1;
+        return ans2;
+
     }
 }
