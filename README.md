@@ -73,6 +73,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
@@ -157,6 +160,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0572-subtree-of-another-tree) |
