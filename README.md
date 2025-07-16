@@ -15,6 +15,7 @@
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/UtkarshGLAU/Leet_Code/tree/master/2792-neighboring-bitwise-xor) |
 | [3373-maximum-prime-difference](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3373-maximum-prime-difference) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3567-convert-date-to-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
