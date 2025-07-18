@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0451-sort-characters-by-frequency) |
 | [1250-longest-common-subsequence](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1250-longest-common-subsequence) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0542-01-matrix) |
@@ -153,6 +157,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
