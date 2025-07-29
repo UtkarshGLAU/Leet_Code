@@ -101,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0067-add-binary) |
@@ -187,6 +188,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/UtkarshGLAU/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -222,6 +224,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/UtkarshGLAU/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
